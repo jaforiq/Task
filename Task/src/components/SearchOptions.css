@@ -1,0 +1,29 @@
+.sc-wrapper {
+    width: 80vw;
+    margin: 0 auto;
+}
+
+.mr {
+    margin-right: 10px;
+}
+
+.plus {
+    font-size: 22px;
+}
+
+.sc-checks {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+form label {
+    font-weight: bold;
+    padding: 0 5px;
+}
+
+.my-btn {
+    background-color: rgb(16, 16, 192);
+    color: white;
+}
